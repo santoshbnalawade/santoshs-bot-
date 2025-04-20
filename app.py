@@ -1,5 +1,6 @@
 import streamlit as st
 import openai
+openai migrate
 
 # Initialize the OpenAI API key
 openai.api_key = 'your-openai-api-key-here'  # Replace with your actual API key
